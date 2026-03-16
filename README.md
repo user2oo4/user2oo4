@@ -6,5 +6,6 @@
   - [uga-icpc-site](https://user2oo4.github.io/uga-icpc-site/): website with resources and arciles for ICPC Southeast regional 2025-2026 season training at UGA. All articles are public, feel free to check them out. Feedback and contributions are always welcome!
   - [trading-playground](https://github.com/user2oo4/trading-playground): experimenting with trading ideas
   - [ScheduleHero](https://schedulehero.org/): a schedule-generating tool for UGA students, built with some friends
+  - [march-madness](https://github.com/user2oo4/march-madness) and [tennis](https://github.com/user2oo4/tennis): experimenting with sports data analytics and simulations
 - Most of my repositories focus on problem solving or learning new technologies
 - Open to collaboration on interesting projects or coding challenges, feel free to browse my repositories or contact me if you’d like to connect
